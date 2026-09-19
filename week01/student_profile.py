@@ -3,7 +3,7 @@ department = input("Enter your department: ")
 age = input("Enter your age: ")
 career_goal = input("Enter your career goal: ")
 
-print("\n--- Student Profile ---")
+print("\n--- My Student Profile ---")
 print("Name:", name)
 print("Department:", department)
 print("Age:", age)
